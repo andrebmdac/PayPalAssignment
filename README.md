@@ -12,7 +12,7 @@ The Back End is in the folder server.
 ---------------------------------------------------------------------------------
 Here are the derivables asked in the assignment:
 
-1 - Working demo hosted in the link: https://deploy-paypal.vercel.app/
+1 - Working demo hosted in the link: https://pay-pal-front.vercel.app/
 
 2 - PayPal SandBox credentials:
     Personal: 
@@ -26,6 +26,16 @@ Here are the derivables asked in the assignment:
         Password: qJ'!Z.C1
     }
 
-3 - Link to the gitHub repo containing my code for the demo: https://github.com/andrebmdac/PayPal
+3 - Link to the gitHub repo containing my code for the demo: https://github.com/andrebmdac/PayPalAssignment
+
+----------------------------------------------------------------------------------
+
+If you want to run the code in your machine:
+
+Front-end script:
+npm run dev
+
+Back-end script:
+nodemon
 
 

@@ -38,10 +38,6 @@ app.post("/my-server/capture-paypal-order", async (req,res) =>
     }
 })
 
-app.get("/teste", async (req,res) =>
-{
-   return res.json({message: 'Server is up'});
-})
 
 app.listen(PORT, () =>
 {

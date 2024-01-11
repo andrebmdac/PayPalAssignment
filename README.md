@@ -29,7 +29,13 @@ Here are the derivables asked in the assignment:
 3 - Link to the gitHub repo containing my code for the demo: https://github.com/andrebmdac/PayPalAssignment
 
 ----------------------------------------------------------------------------------
+Documentation References:
 
+https://developer.paypal.com/docs/checkout/standard/integrate/
+https://developer.paypal.com/docs/checkout/standard/customize/single-page-app/
+https://www.npmjs.com/package/@paypal/react-paypal-js
+
+----------------------------------------------------------------------------------
 If you want to run the code in your machine:
 
 Front-end script:
